@@ -1,6 +1,6 @@
 ### Sea, dader yeterli bu kadar 
 
-• Bot falan minimum bilgim var takılıyorum kendi halimde
+### • Bot falan minimum bilgim var takılıyorum kendi halimde
 
 
 
