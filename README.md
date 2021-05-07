@@ -4,4 +4,4 @@
 
 
 
-[daderrr's stats](https://github-readme-stats.vercel.app/api?username=daderrrr&count_private=true&show_icons=true&theme=blueberry)
+### ![daderrr's stats](https://github-readme-stats.vercel.app/api?username=daderrrr&count_private=true&show_icons=true&theme=blueberry)
