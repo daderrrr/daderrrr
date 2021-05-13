@@ -1,6 +1,6 @@
 ### Sea, dader yeterli bu kadar 
-![Uploading image.png…]()
-### • Bot falan minimum bilgim var takılıyorum kendi halimde ![Uploading image.png…]()
+
+### • Bot falan minimum bilgim var takılıyorum kendi halimde 
 
 
 
